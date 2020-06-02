@@ -16,5 +16,21 @@ https://docs.anaconda.com/anaconda/navigator/
 
 ## Section 1: Core Programming Principles
 
-Normal distribution diagram: 
-https://towardsdatascience.com/understanding-the-68-95-99-7-rule-for-a-normal-distribution-b7b7cbf760c2 
+In this section, we cover:
+- Types of variables: 
+  - Integers
+  - Float 
+  - Strings
+  - Logical/boolean
+  - Using variables
+  - Using boolean variables and operators
+  
+- Loops:
+  - While loops
+  - For loops
+  - If statements
+  - Nested loops
+  - Chained statements
+
+Normal distribution diagram: https://towardsdatascience.com/understanding-the-68-95-99-7-rule-for-a-normal-distribution-b7b7cbf760c2 
+
