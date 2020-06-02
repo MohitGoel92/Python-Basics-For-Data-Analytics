@@ -16,3 +16,4 @@ https://docs.anaconda.com/anaconda/navigator/
 
 ## Section 1: Core Programming Principles
 
+Normal distribution diagram: https://towardsdatascience.com/understanding-the-68-95-99-7-rule-for-a-normal-distribution-b7b7cbf760c2 
