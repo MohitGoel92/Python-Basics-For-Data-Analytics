@@ -37,5 +37,7 @@ Normal distribution diagram: https://towardsdatascience.com/understanding-the-68
 
 ## Section 2: Fundamentals of Python
 
+In this section, we cover:
 
+- 
 
