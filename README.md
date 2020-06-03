@@ -39,5 +39,28 @@ Normal distribution diagram: https://towardsdatascience.com/understanding-the-68
 
 In this section, we cover:
 
-- 
+- Lists:
+  - What a list is
+  - Creating lists: [], range()
+  - Using the [] brackets
+  - Slicing lists
+  - Tuples
+  
+- Tuples
+- Functions
+- Packages
+- Numpy and Arrays
+- Slicing Arrays
 
+### Packages in python
+
+Packages contain different functions that are used to carry out tasks.
+
+Module: A module is simply a file containing Python definitions, functions and statements. Putting code into modules is useful because of the ability to import the module functionality into your script or IPython session.
+
+Package: A package is just a way of collecting related modules together within a simple tree like hierarchy. Very complex packages like NumPy or SciPy have hundreds of individual modules so putting them into a directory-like structure keeps things organised and avoids name collisions.
+
+Steps: 
+- Find the package (optional)
+- Install package (pip install package_name)
+- Import package_name (e.g. import numpy as np) or Import function (e.g. from sklearn import metrics)
