@@ -4,7 +4,7 @@ This repository contains a course on the basics of python programming for a begi
 
 This course is split up into 5 sections, they are: 
 
-- Core programming rinciples
+- Core programming principles
 - Fundamentals of python
 - Matrices
 - Data Frames
