@@ -64,3 +64,15 @@ Steps:
 - Find the package (optional)
 - Install package (pip install package_name)
 - Import package_name (e.g. import numpy as np) or Import function (e.g. from sklearn import metrics)
+
+## Section 3: Matrices
+
+In this section, we cover:
+
+- Matrices:
+  - Building matrices: ```np.reshape(*, *, 'C'), np.reshape(*, *, 'F), np.array()```
+  - Matrix operations
+- Dictionaries in python
+- Visualisations with pyplot
+- Creating functions
+- Deriving insights
