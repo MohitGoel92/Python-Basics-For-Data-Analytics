@@ -76,3 +76,18 @@ In this section, we cover:
 - Visualisations with pyplot
 - Creating functions
 - Deriving insights
+
+## Section 4: Data Frames
+
+In this section, we cover:
+
+- Importing data into python
+- Data frames via Pandas
+- Exploring datasets: head(), tail(), info(), describe()
+- Renaming columns
+- Subsetting data frames
+- Basic operations with data frames
+- .at() and .iat ()
+- Filtering data frames
+- Introduction into Seaborn
+- Keyword arguments (kws)
