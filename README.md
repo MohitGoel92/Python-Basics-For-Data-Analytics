@@ -91,3 +91,17 @@ In this section, we cover:
 - Filtering data frames
 - Introduction into Seaborn
 - Keyword arguments (kws)
+
+## Section 5: Advanced Visualisations
+
+In this section, we cover:
+
+- Data types in python
+- Joint plots
+- Histograms
+- Stacked Histograms
+- KDE plots
+- Using the Subplots() function
+- Box plots and Violin plots
+- Facet grids
+- Building dashboards
