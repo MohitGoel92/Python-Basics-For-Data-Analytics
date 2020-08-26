@@ -1,6 +1,6 @@
 # Python Basics For Data Analytics
 
-This repository contains a course on the basics of python programming for a beginner. This repository contains basic datasets to illustrates the core concepts we will be exploring, however, you are free (and should) practice on datasets of your interest in order to find interesting insights.
+This repository contains a course on the basics of python programming for a beginner. This repository contains basic datasets to illustrate the core concepts we will be exploring, however, you are free (and should) practice on datasets of your interest in order to find interesting insights.
 
 This course is split up into 5 sections, they are: 
 
